@@ -56,7 +56,7 @@ function animation (){
             start: "top top",
             scrub: 1,
             end: "bottom bottom",
-            markers:true
+          
         }
     })
     tl.to(frames, {
